@@ -31,5 +31,5 @@ def find_meeting_details(file_path):
 
 
 
-file_path = "message.txt"  #Replace message.txt with the text filw
+file_path = "sample.txt"  #Replace sample.txt with the text filw
 print(find_meeting_details(file_path))
